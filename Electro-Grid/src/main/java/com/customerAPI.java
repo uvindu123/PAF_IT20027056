@@ -19,6 +19,7 @@ public class customerAPI extends HttpServlet {
        
 	
 	 customer customerObj = new customer(); 
+	 
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
